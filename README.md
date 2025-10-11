@@ -1,4 +1,5 @@
-# 👾 Pedro Botelho
+# 👾 <img width="200" height="200" alt="Logo ppbotelho_ Dev" src="https://github.com/user-attachments/assets/7281fe26-f14f-44fc-af77-f7de5c0aa857" />
+
 
 **`Desenvolvedor FullStack Jr`**
 
