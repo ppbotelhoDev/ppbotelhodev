@@ -1,4 +1,5 @@
-# 👾 <img width="200" height="200" alt="Logo ppbotelho_ Dev" src="https://github.com/user-attachments/assets/7281fe26-f14f-44fc-af77-f7de5c0aa857" />
+# 👾 <img width="200" alt="Logo ppbotelho_ Dev - Versão Slim" src="https://github.com/user-attachments/assets/d5b3b63b-41e9-4ed8-a949-d4feec867255" />
+
 
 
 **`Desenvolvedor FullStack Jr`**
