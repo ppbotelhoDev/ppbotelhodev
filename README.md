@@ -65,11 +65,11 @@ Neste repositório você encontrará projetos pessoais, estudos e pequenos prot�
 
 <img 
     align="left" 
-    alt="Bootstrap" 
-    title="Bootstrap" 
-     width="30px" 
+    alt="Tailwind" 
+    title="Tailwind" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
      align="left" 
