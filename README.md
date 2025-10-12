@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack Jr`**
 
-Me chamo Pedro Paulo M. Botelho, tenho 23 anos, sou natural de Minas Gerais. Sou formado em `Análise e Desenvolvimento de sistemas` pela Unicesumar Montes Claros. Sou apaixonado por tecnologia. Atualmente sou `[Desenvolvedor FullStack Jr]` com interesse em front-end (`Javascript`, `React`, `HTML`, `CSS`, `TypeScript`, `Bootstrap`) e back-end (`Node.js`). Gosto de construir soluções simples e escaláveis, escrever código limpo e aprender novas tecnologias.
+Me chamo Pedro Paulo M. Botelho, tenho 23 anos, sou natural de Minas Gerais. Sou formado em `Análise e Desenvolvimento de sistemas` pela Unicesumar Montes Claros. Sou apaixonado por tecnologia. Atualmente sou `[Desenvolvedor FullStack Jr]` com interesse em front-end (`Javascript`, `React`, `HTML`, `CSS`, `TypeScript`, `Tailwind`) e back-end (`Node.js & express.js`). Gosto de construir soluções simples e escaláveis, escrever código limpo e aprender novas tecnologias.
 
 Neste repositório você encontrará projetos pessoais, estudos e pequenos protótipos que uso para treinar e documentar meu aprendizado. Fique à vontade para explorar, abrir `issues` ou enviar `pull requests`.
 
