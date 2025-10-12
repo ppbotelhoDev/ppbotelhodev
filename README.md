@@ -104,7 +104,7 @@ Neste repositório você encontrará projetos pessoais, estudos e pequenos prot�
      title="Vite" 
      width="30px" 
      style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 
 <img 
